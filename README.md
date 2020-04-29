@@ -1,5 +1,9 @@
 <a href="http://www.kios.ucy.ac.cy"><img src="http://www.kios.ucy.ac.cy/templates/favourite/images/kios_logo_hover.png"/><a>
 
+Lecture Notes on Smart Water Networks for ECE 808
+=================================================
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.831493.svg)](https://doi.org/10.5281/zenodo.831493)
 
 
