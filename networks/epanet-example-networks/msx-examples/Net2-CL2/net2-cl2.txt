@@ -1,4 +1,4 @@
-  Page 1                                    Wed Apr 29 12:44:13 2020
+  Page 1                                    Thu Apr 30 17:09:24 2020
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -9,7 +9,7 @@
   
   EPANET Example Network 2
    
-      Input Data File ................... C:\Users\eldemet\Desktop\ECE808\ece808_code\networks\epanet-example-networks\msx-examples\Net2-CL2\net2-cl2.inp
+      Input Data File ................... C:\Users\eldemet\Documents\GitHub\ece808-smart-water-systems\networks\epanet-example-networks\msx-examples\Net2-CL2\net2-cl2.inp
       Number of Junctions................ 35
       Number of Reservoirs............... 0
       Number of Tanks ................... 1
@@ -36,6 +36,6 @@
          No Nodes
          No Links
    
-  Analysis begun Wed Apr 29 12:44:13 2020
+  Analysis begun Thu Apr 30 17:09:24 2020
 
-  Analysis ended Wed Apr 29 12:44:13 2020
+  Analysis ended Thu Apr 30 17:09:24 2020
