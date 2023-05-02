@@ -1,4 +1,4 @@
-  Page 1                                    Mon May 01 23:56:34 2023
+  Page 1                                    Tue May 02 14:34:45 2023
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -9,7 +9,7 @@
   
   EPANET Example Network 2
    
-      Input Data File ................... C:\Users\eldemet\OneDrive - University of Cyprus\Documents\GitHub\ece808-smart-water-systems\networks\epanet-example-networks\msx-examples\Net2-CL2\net2-cl2.inp
+      Input Data File ................... C:\Users\eldemet\OneDrive - University of Cyprus\Documents\GitHub\ece808-smart-water-systems\networks\epanet-example-networks\Net2-CL2\net2-cl2.inp
       Number of Junctions................ 35
       Number of Reservoirs............... 0
       Number of Tanks ................... 1
@@ -36,6 +36,6 @@
          No Nodes
          No Links
    
-  Analysis begun Mon May 01 23:56:34 2023
+  Analysis begun Tue May 02 14:34:45 2023
 
-  Analysis ended Mon May 01 23:56:34 2023
+  Analysis ended Tue May 02 14:34:46 2023
